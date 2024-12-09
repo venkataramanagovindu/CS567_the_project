@@ -1,0 +1,16 @@
+ 1534  which cloc\n
+ 1535  which cloc\n
+ 1536  brew install cloc\n
+ 1537  cloc --version\n
+ 1538  pytest -v
+ 1539  pytest --version
+ 1540  clear
+ 1541  which cloc\n
+ 1542  cloc .\n
+ 1543  cloc task_manager/task_manager.py\n
+ 1544  clear
+ 1545  mutmut run\n
+ 1546  history > history_log.txt\n
+ 1547  history | tail -n 50\n
+ 1548  python3 -m tests/test_processor.py
+ 1549  history | tail -n 50\n

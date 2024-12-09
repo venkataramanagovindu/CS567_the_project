@@ -1,0 +1,27 @@
+{
+    "exit_code_by_key": {
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1__init____mutmut_1": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1__init____mutmut_2": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1__init____mutmut_3": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1load_json__mutmut_1": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1load_json__mutmut_2": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1validate_json__mutmut_1": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1validate_json__mutmut_2": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_1": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_2": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_3": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_4": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_5": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_6": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_7": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_8": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_9": null,
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json__mutmut_10": null
+    },
+    "hash_by_function_name": {
+        "__init__": "b4581526f92e1a6c01e8e4ce6dfca293",
+        "load_json": "c9cab86267c9ea6ccabf5dad0c88111a",
+        "validate_json": "0114d4026e177642f59174b83d80120a",
+        "modify_json": "b56d347bb1d03db95e035d07bda3500c"
+    }
+}
