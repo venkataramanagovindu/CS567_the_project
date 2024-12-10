@@ -39,13 +39,19 @@ A virtual environment helps isolate dependencies.
 
 ```
 python3 -m venv venv
+
+```
 Activate the Virtual Environment
 Activate the environment to start working.
 
+```
 On Linux/Mac:
 
-
+```
 source venv/bin/activate
+
+```
+
 On Windows:
 cmd
 
