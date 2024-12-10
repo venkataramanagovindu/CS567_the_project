@@ -1,23 +1,4 @@
-python3 -m venv venv
-source venv/bin/activate
 
-
-
-
-
- pip install hypothesis
- python3 -m unittest discover
- coverage run -m unittest discover  
- coverage html            
- mutmut run
- mutmut results
- mutmut show <result_file_name>
- mutmut results --all true 
-
-
-Here’s the content for your README.md file:
-
-markdown
 
 # Python Testing with Hypothesis, Coverage, and MutMut
 
@@ -59,7 +40,7 @@ Install required dependencies:
 
 
 ```
-pip install hypothesis
+pip install -r requirements.txt
 ```
 Running Tests
 Running Unit Tests
@@ -123,4 +104,22 @@ project/
 ├── htmlcov/            # Coverage report
 ├── README.md           # Documentation
 └── requirements.txt    # Dependencies
+
+
+```
+python3 -m venv venv
+source venv/bin/activate
+
+
+
+
+
+ pip install hypothesis
+ python3 -m unittest discover
+ coverage run -m unittest discover  
+ coverage html            
+ mutmut run
+ mutmut results
+ mutmut show <result_file_name>
+ mutmut results --all true 
 ```
