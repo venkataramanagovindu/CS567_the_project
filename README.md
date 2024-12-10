@@ -39,6 +39,12 @@ venv\Scripts\activate
 Install required dependencies:
 
 
+In the root directory check the total code line count using
+
+```
+cloc task_manager/task_manager.py
+```
+
 ```
 pip install -r requirements.txt
 ```
