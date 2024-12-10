@@ -114,8 +114,152 @@
 #     main()
 
 # from task_manager import TaskManager
-from task_manager.task_manager import TaskManager
 
+# V2
+# from task_manager.task_manager import TaskManager
+
+
+
+# def display_menu():
+#     """
+#     Display the main menu options for the task management application.
+#     """
+#     print("\n=== Task Management Menu ===")
+#     print("1. Add a Task")
+#     print("2. Edit a Task")
+#     print("3. Delete a Task")
+#     print("4. List All Tasks")
+#     print("5. List Tasks by Status or Category")
+#     print("6. Search Tasks by Keyword")
+#     print("7. Sort Tasks by Deadline")
+#     print("8. Sort Tasks by Priority")
+#     print("9. Generate Task Report")
+#     print("10. Export Tasks to JSON")
+#     print("11. Exit")
+
+
+# def get_task_details():
+#     """
+#     Prompt the user for task details and return them as a dictionary.
+#     """
+#     title = input("Enter the task title: ")
+#     description = input("Enter the task description: ")
+#     category = input("Enter the task category (e.g., Work, Personal): ")
+#     priority = input("Enter the task priority (High, Medium, Low): ")
+#     deadline = input("Enter the task deadline (YYYY-MM-DD): ")
+#     return {
+#         "title": title,
+#         "description": description,
+#         "category": category,
+#         "priority": priority,
+#         "deadline": deadline
+#     }
+
+
+# def main():
+#     """
+#     Main function to drive the task management application.
+#     """
+#     task_file = "tasks.json"
+#     task_manager = TaskManager(task_file)
+
+#     while True:
+#         display_menu()
+#         choice = input("\nEnter your choice (1-11): ")
+
+#         if choice == "1":
+#             # Add a Task
+#             details = get_task_details()
+#             task_manager.add_task(
+#                 details["title"],
+#                 details["description"],
+#                 details["category"],
+#                 details["priority"],
+#                 details["deadline"]
+#             )
+
+#         elif choice == "2":
+#             # Edit a Task
+#             task_id = int(input("Enter the task ID to edit: "))
+#             print("Leave fields blank to keep them unchanged.")
+#             title = input("New Title: ")
+#             description = input("New Description: ")
+#             category = input("New Category: ")
+#             priority = input("New Priority (High, Medium, Low): ")
+#             status = input("New Status (Pending, In Progress, Completed): ")
+#             deadline = input("New Deadline (YYYY-MM-DD): ")
+#             task_manager.edit_task(task_id, title, description, category, priority, status, deadline)
+
+#         elif choice == "3":
+#             # Delete a Task
+#             task_id = int(input("Enter the task ID to delete: "))
+#             task_manager.delete_task(task_id)
+
+#         elif choice == "4":
+#             # List All Tasks
+#             print("\n=== All Tasks ===")
+#             task_manager.print_all_tasks()
+
+#         elif choice == "5":
+#             # List Tasks by Status or Category
+#             filter_status = input("Enter the task status to filter by (Pending, In Progress, Completed) or press Enter to skip: ")
+#             filter_category = input("Enter the task category to filter by or press Enter to skip: ")
+#             filtered_tasks = task_manager.list_tasks(filter_status, filter_category)
+#             if filtered_tasks:
+#                 print("\nFiltered Tasks:")
+#                 for task in filtered_tasks:
+#                     task_manager.print_task(task)
+#             else:
+#                 print("No tasks match the given criteria.")
+
+#         elif choice == "6":
+#             # Search Tasks by Keyword
+#             keyword = input("Enter a keyword to search tasks: ")
+#             search_results = task_manager.search_tasks(keyword)
+#             if search_results:
+#                 print("\nSearch Results:")
+#                 for task in search_results:
+#                     task_manager.print_task(task)
+#             else:
+#                 print("No tasks match the given keyword.")
+
+#         elif choice == "7":
+#             # Sort Tasks by Deadline
+#             task_manager.sort_tasks_by_deadline()
+#             print("Tasks sorted by deadline successfully.")
+
+#         elif choice == "8":
+#             # Sort Tasks by Priority
+#             task_manager.sort_tasks_by_priority()
+#             print("Tasks sorted by priority successfully.")
+
+#         elif choice == "9":
+#             # Generate Task Report
+#             report = task_manager.generate_report()
+#             print(f"\n=== Task Report ===\n{report}")
+
+#         elif choice == "10":
+#             # Export Tasks to JSON
+#             export_file = input("Enter the file name to export tasks (e.g., export_tasks.json): ")
+#             task_manager.export_to_json(export_file)
+
+#         elif choice == "11":
+#             # Exit the Application
+#             print("Exiting Task Manager. Goodbye!")
+#             break
+
+#         else:
+#             print("Invalid choice. Please select an option from the menu.")
+
+#         input("\nPress Enter to continue...")  # Pause before showing the menu again
+
+
+# if __name__ == "__main__":
+#     main()
+
+# V3
+
+from task_manager.task_manager import TaskManager
 
 
 def display_menu():
@@ -132,8 +276,12 @@ def display_menu():
     print("7. Sort Tasks by Deadline")
     print("8. Sort Tasks by Priority")
     print("9. Generate Task Report")
-    print("10. Export Tasks to JSON")
-    print("11. Exit")
+    print("10. Mark Task as Completed")
+    print("11. Extend Task Deadline")
+    print("12. Filter Tasks by Date Range")
+    print("13. Count Tasks by Status or Priority")
+    print("14. Export Tasks to JSON")
+    print("15. Exit")
 
 
 def get_task_details():
@@ -144,7 +292,7 @@ def get_task_details():
     description = input("Enter the task description: ")
     category = input("Enter the task category (e.g., Work, Personal): ")
     priority = input("Enter the task priority (High, Medium, Low): ")
-    deadline = input("Enter the task deadline (YYYY-MM-DD): ")
+    deadline = input("Enter the task deadline (YYYY-MM-DD HH:MM:SS): ")
     return {
         "title": title,
         "description": description,
@@ -163,7 +311,7 @@ def main():
 
     while True:
         display_menu()
-        choice = input("\nEnter your choice (1-11): ")
+        choice = input("\nEnter your choice (1-15): ")
 
         if choice == "1":
             # Add a Task
@@ -185,8 +333,16 @@ def main():
             category = input("New Category: ")
             priority = input("New Priority (High, Medium, Low): ")
             status = input("New Status (Pending, In Progress, Completed): ")
-            deadline = input("New Deadline (YYYY-MM-DD): ")
-            task_manager.edit_task(task_id, title, description, category, priority, status, deadline)
+            deadline = input("New Deadline (YYYY-MM-DD HH:MM:SS): ")
+            task_manager.edit_task(
+                task_id,
+                title=title or None,
+                description=description or None,
+                category=category or None,
+                priority=priority or None,
+                status=status or None,
+                deadline=deadline or None
+            )
 
         elif choice == "3":
             # Delete a Task
@@ -196,7 +352,8 @@ def main():
         elif choice == "4":
             # List All Tasks
             print("\n=== All Tasks ===")
-            task_manager.print_all_tasks()
+            for task in task_manager.tasks["tasks"]:
+                print(task)
 
         elif choice == "5":
             # List Tasks by Status or Category
@@ -206,7 +363,7 @@ def main():
             if filtered_tasks:
                 print("\nFiltered Tasks:")
                 for task in filtered_tasks:
-                    task_manager.print_task(task)
+                    print(task)
             else:
                 print("No tasks match the given criteria.")
 
@@ -217,7 +374,7 @@ def main():
             if search_results:
                 print("\nSearch Results:")
                 for task in search_results:
-                    task_manager.print_task(task)
+                    print(task)
             else:
                 print("No tasks match the given keyword.")
 
@@ -237,11 +394,43 @@ def main():
             print(f"\n=== Task Report ===\n{report}")
 
         elif choice == "10":
+            # Mark Task as Completed
+            task_id = int(input("Enter the task ID to mark as completed: "))
+            task_manager.mark_task_as_completed(task_id)
+
+        elif choice == "11":
+            # Extend Task Deadline
+            task_id = int(input("Enter the task ID to extend the deadline: "))
+            days = int(input("Enter the number of days to extend: "))
+            hours = int(input("Enter the number of hours to extend: "))
+            task_manager.extend_task_deadline(task_id, days=days, hours=hours)
+
+        elif choice == "12":
+            # Filter Tasks by Date Range
+            start_date = input("Enter the start date (YYYY-MM-DD): ")
+            end_date = input("Enter the end date (YYYY-MM-DD): ")
+            tasks_in_range = task_manager.filter_tasks_by_date_range(start_date, end_date)
+            if tasks_in_range:
+                print("\nTasks in Date Range:")
+                for task in tasks_in_range:
+                    print(task)
+            else:
+                print("No tasks found in the given date range.")
+
+        elif choice == "13":
+            # Count Tasks by Status or Priority
+            print("\n=== Task Counts ===")
+            print("By Status:")
+            print(task_manager.count_tasks_by_status())
+            print("By Priority:")
+            print(task_manager.generate_priority_report())
+
+        elif choice == "14":
             # Export Tasks to JSON
             export_file = input("Enter the file name to export tasks (e.g., export_tasks.json): ")
             task_manager.export_to_json(export_file)
 
-        elif choice == "11":
+        elif choice == "15":
             # Exit the Application
             print("Exiting Task Manager. Goodbye!")
             break
@@ -254,3 +443,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

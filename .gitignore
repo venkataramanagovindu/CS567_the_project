@@ -1,1 +1,7 @@
 venv/
+.hypothesis/
+mutants/*
+*.meta
+mutants/task_manager/task_manager.py
+mutants/task_manager/*
+tests/__pycache__/*

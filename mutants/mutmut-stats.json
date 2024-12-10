@@ -1,113 +1,189 @@
 {
     "tests_by_mangled_function_name": {
-        "json_processor.processor.x\u01c1JSONProcessor\u01c1load_json": [
-            "tests/test_processor.py::TestJSONProcessor::test_validate_json",
-            "tests/test_processor.py::TestJSONProcessor::test_modify_json_with_random_input",
-            "tests/test_processor.py::TestJSONProcessor::test_load_json",
-            "tests/test_processor.py::TestJSONProcessor::test_modify_json"
-        ],
-        "json_processor.processor.x\u01c1JSONProcessor\u01c1__init__": [
-            "tests/test_processor.py::TestJSONProcessor::test_validate_json",
-            "tests/test_processor.py::TestJSONProcessor::test_modify_json_with_random_input",
-            "tests/test_processor.py::TestJSONProcessor::test_load_json",
-            "tests/test_processor.py::TestJSONProcessor::test_modify_json"
-        ],
-        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json": [
-            "tests/test_processor.py::TestJSONProcessor::test_modify_json_with_random_input",
-            "tests/test_processor.py::TestJSONProcessor::test_modify_json"
-        ],
-        "json_processor.processor.x\u01c1JSONProcessor\u01c1validate_json": [
-            "tests/test_processor.py::TestJSONProcessor::test_validate_json"
-        ],
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1load_json": [],
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1__init__": [],
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1modify_json": [],
+        "json_processor.processor.x\u01c1JSONProcessor\u01c1validate_json": [],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1_initialize_task_file": [
-            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
             "tests/test_task_manager.py::TestTaskManager::test_add_task",
-            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
-            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
-            "tests/test_task_manager.py::TestTaskManager::test_print_task",
-            "tests/test_task_manager.py::TestTaskManager::test_search_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_description",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
             "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_priority",
-            "tests/test_task_manager.py::TestTaskManager::test_export_to_json",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_load_tasks_with_invalid_json",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
+            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_title",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1get_next_task_id": [
-            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
             "tests/test_task_manager.py::TestTaskManager::test_add_task",
-            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
-            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
-            "tests/test_task_manager.py::TestTaskManager::test_print_task",
-            "tests/test_task_manager.py::TestTaskManager::test_search_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
             "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_priority",
-            "tests/test_task_manager.py::TestTaskManager::test_export_to_json",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
+            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1__init__": [
-            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
             "tests/test_task_manager.py::TestTaskManager::test_add_task",
-            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
-            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
-            "tests/test_task_manager.py::TestTaskManager::test_print_task",
-            "tests/test_task_manager.py::TestTaskManager::test_search_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_description",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
             "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_priority",
-            "tests/test_task_manager.py::TestTaskManager::test_export_to_json",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_load_tasks_with_invalid_json",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
+            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_title",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1load_tasks": [
-            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
             "tests/test_task_manager.py::TestTaskManager::test_add_task",
-            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
-            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
-            "tests/test_task_manager.py::TestTaskManager::test_print_task",
-            "tests/test_task_manager.py::TestTaskManager::test_search_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_description",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
             "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_priority",
-            "tests/test_task_manager.py::TestTaskManager::test_export_to_json",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_load_tasks_with_invalid_json",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
+            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_title",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1add_task": [
-            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
             "tests/test_task_manager.py::TestTaskManager::test_add_task",
-            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
-            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
-            "tests/test_task_manager.py::TestTaskManager::test_print_task",
-            "tests/test_task_manager.py::TestTaskManager::test_search_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_description",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
             "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_priority",
-            "tests/test_task_manager.py::TestTaskManager::test_export_to_json",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
+            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_title",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1save_tasks": [
-            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
             "tests/test_task_manager.py::TestTaskManager::test_add_task",
-            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
-            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
-            "tests/test_task_manager.py::TestTaskManager::test_print_task",
-            "tests/test_task_manager.py::TestTaskManager::test_search_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
             "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_priority",
-            "tests/test_task_manager.py::TestTaskManager::test_export_to_json",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
+            "tests/test_task_manager.py::TestTaskManager::test_list_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1sort_tasks_by_priority": [
             "tests/test_task_manager.py::TestTaskManager::test_sort_tasks_by_priority"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1find_task_by_id": [
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
             "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_delete_task",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_delete_task"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1edit_task": [
-            "tests/test_task_manager.py::TestTaskManager::test_generate_report",
-            "tests/test_task_manager.py::TestTaskManager::test_edit_task"
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_edit_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_report"
         ],
         "task_manager.task_manager.x\u01c1TaskManager\u01c1delete_task": [
             "tests/test_task_manager.py::TestTaskManager::test_delete_task"
@@ -121,18 +197,169 @@
         "task_manager.task_manager.x\u01c1TaskManager\u01c1generate_report": [
             "tests/test_task_manager.py::TestTaskManager::test_generate_report"
         ],
-        "task_manager.task_manager.x\u01c1TaskManager\u01c1search_tasks": [
-            "tests/test_task_manager.py::TestTaskManager::test_search_tasks"
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1search_tasks": [],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1export_to_json": [],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1print_all_tasks": [],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1print_task": [],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_validate_description": [
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_description",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category"
         ],
-        "task_manager.task_manager.x\u01c1TaskManager\u01c1export_to_json": [
-            "tests/test_task_manager.py::TestTaskManager::test_export_to_json"
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_validate_category": [
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category"
         ],
-        "task_manager.task_manager.x\u01c1TaskManager\u01c1print_all_tasks": [
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks"
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_validate_title": [
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_description",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_title",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
         ],
-        "task_manager.task_manager.x\u01c1TaskManager\u01c1print_task": [
-            "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks",
-            "tests/test_task_manager.py::TestTaskManager::test_print_task"
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_is_priority_valid": [
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_validate_date_format": [
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_build_task": [
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task",
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category",
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1generate_priority_report": [
+            "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_parse_date": [
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks",
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range",
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1filter_tasks_by_date_range": [
+            "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1extend_task_deadline": [
+            "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1log_task_history": [
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status",
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1archive_completed_tasks": [
+            "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1get_overdue_tasks": [
+            "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1clone_task": [
+            "tests/test_task_manager.py::TestTaskManager::test_clone_task"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1mark_task_as_completed": [
+            "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1count_tasks_by_category": [
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1_validate_status": [
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1update_task_status_bulk": [
+            "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1count_tasks_by_status": [
+            "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1get_tasks_by_priority": [
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis",
+            "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority"
+        ],
+        "task_manager.task_manager.x\u01c1TaskManager\u01c1reset_task_file": [
+            "tests/test_task_manager.py::TestTaskManager::test_reset_task_file"
         ]
     },
     "duration_by_test": {
@@ -150,7 +377,27 @@
         "tests/test_task_manager.py::TestTaskManager::test_search_tasks": 5.325001257006079e-05,
         "tests/test_task_manager.py::TestTaskManager::test_export_to_json": 3.8999991375021636e-05,
         "tests/test_task_manager.py::TestTaskManager::test_print_all_tasks": 4.049998824484646e-05,
-        "tests/test_task_manager.py::TestTaskManager::test_print_task": 5.0417002057656646e-05
+        "tests/test_task_manager.py::TestTaskManager::test_print_task": 5.0417002057656646e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_generate_priority_report": 5.583300662692636e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_filter_tasks_by_date_range": 4.333299875725061e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_extend_task_deadline": 5.495900404639542e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_archive_completed_tasks": 4.641700070351362e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_get_overdue_tasks": 6.354200013447553e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_clone_task": 5.595899710897356e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_mark_task_as_completed": 4.774999979417771e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_category": 4.299999272916466e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_update_task_status_bulk": 3.895899862982333e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_count_tasks_by_status": 4.25000034738332e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority": 5.149999924469739e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_load_tasks_with_invalid_json": 4.962501407135278e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_title": 5.366699770092964e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_priority": 3.891700180247426e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_description": 3.5375007428228855e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_deadline": 4.170800093561411e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_add_task_invalid_category": 5.166699702385813e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_reset_task_file": 7.291699876077473e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_add_task_with_hypothesis": 6.016700353939086e-05,
+        "tests/test_task_manager.py::TestTaskManager::test_get_tasks_by_priority_with_hypothesis": 6.379200203809887e-05
     },
     "stats_time": 1.138258
 }

@@ -1,5 +1,5 @@
 hypothesis==6.122.1
 coverage==7.6.9
 mutmut==3.2.2
-cloc= 2.02
-pytest= 8.3.4
+cloc==0.2.5
+pytest==8.3.4

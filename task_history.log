@@ -1,0 +1,430 @@
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:37:05"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:37:05"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:37:05"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:37:05"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:39:31"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:39:31"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:39:31"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:39:31"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:39:43"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:39:43"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:39:43"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:39:43"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:39:50"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:39:50"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:39:50"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:39:50"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:49:10"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:49:10"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:49:10"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:49:10"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:49:23"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:49:23"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:49:23"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:49:23"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:52:25"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:52:25"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:52:25"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:52:25"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:53:30"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:53:30"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:53:30"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:53:30"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:54:01"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:54:01"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:54:01"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:54:01"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:55:03"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:55:03"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:55:03"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:55:03"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:55:08"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:55:08"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:55:08"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:55:08"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:56:54"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:56:54"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:56:54"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:56:54"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:57:00"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:57:00"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:57:00"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:57:00"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:58:07"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:58:07"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:58:07"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:58:07"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:58:12"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:58:12"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:58:12"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:58:12"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:08"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T20:59:08"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:59:08"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:59:08"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:08"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T20:59:37"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:59:37"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:59:37"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:41"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T20:59:41"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:59:41"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:59:41"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:41"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:51"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T20:59:51"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:59:51"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:59:51"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:51"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:58"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T20:59:58"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T20:59:58"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T20:59:58"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T20:59:58"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:09:10"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:09:10"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:09:10"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:09:10"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:09:10"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:00"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:11:00"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:11:00"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:11:00"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:00"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:17"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:11:17"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:11:17"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:11:17"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:17"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:41"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:11:41"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:11:41"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:11:41"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:41"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:50"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:11:50"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:11:50"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:11:50"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:11:50"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:14:22"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:14:22"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:14:22"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:14:22"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:14:22"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:14:42"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:14:42"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:14:42"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:14:42"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:14:42"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:14:47"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:14:47"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:14:47"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:14:47"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:14:47"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:16:05"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:16:05"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:16:05"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:16:05"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:16:05"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:16:09"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:16:09"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:16:09"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:16:09"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:16:09"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:18:02"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:18:02"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:18:02"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:18:02"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:18:02"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:18:08"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:18:08"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:18:08"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:18:08"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:18:08"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:22:53"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:22:53"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:22:53"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:22:53"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:22:53"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:30:26"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:30:26"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:30:26"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:30:26"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:30:26"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:31:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:31:37"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:31:37"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:31:37"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:31:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:31:52"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:31:52"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:31:52"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:31:52"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:31:52"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:38:31"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:38:31"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:38:31"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:38:31"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:38:31"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:45:15"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:45:15"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:45:15"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:45:15"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:45:15"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:45:19"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:45:19"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:45:19"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:45:19"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:45:19"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:46:16"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:46:16"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:46:16"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:46:16"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:46:16"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:46:46"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:46:46"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:46:46"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:46:46"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:46:46"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:48:00"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:48:00"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:48:00"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:48:00"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:48:00"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:48:13"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:48:13"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:48:13"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:48:13"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:48:13"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:49:06"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:49:06"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:49:06"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:49:06"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:49:06"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:49:43"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:49:43"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:49:43"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:49:43"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:49:43"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:49:54"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T21:49:54"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T21:49:54"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T21:49:54"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T21:49:54"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:10:10"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:10:10"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:10:10"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:10:10"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:10:10"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:11:11"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:11:11"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:11:11"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:11:11"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:11:11"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:12:05"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:12:05"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:12:05"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:12:05"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:12:05"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:12:44"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:12:44"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:12:44"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:12:44"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:12:44"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:01"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:13:01"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:13:01"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:13:01"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:01"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:12"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:13:12"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:13:12"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:13:12"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:12"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:42"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:13:42"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:13:42"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:13:42"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:42"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:47"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:13:47"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:13:47"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:13:47"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:47"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:57"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:13:57"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:13:57"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:13:57"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:13:57"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:14:03"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:14:03"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:14:03"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:14:03"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:14:03"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:15:56"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:15:56"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:15:56"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:15:56"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:15:56"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:20:33"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:20:33"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:20:33"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:20:33"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:20:33"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:20:50"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:20:50"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:20:50"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:20:50"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:20:50"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:21:06"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:21:06"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:21:06"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:21:06"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:21:06"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:22:12"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:22:12"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:22:12"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:22:12"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:22:12"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:55:00"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T22:55:00"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T22:55:00"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T22:55:00"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T22:55:00"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:03:24"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:03:24"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:03:24"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:03:24"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:03:24"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:04:01"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:04:01"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:04:01"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:04:01"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:04:02"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:04:15"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:04:15"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:04:15"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:04:15"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:04:15"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:04:31"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:04:31"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:04:31"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:04:31"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:04:31"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:05:03"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:05:03"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:05:03"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:05:03"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:05:03"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:05:25"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:05:25"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:05:25"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:05:25"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:05:25"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:05:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:05:37"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:05:37"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:05:37"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:05:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:13:06"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:13:06"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:13:06"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:13:06"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:13:06"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:16:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:16:37"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:16:37"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:16:37"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:16:37"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:16:58"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:16:58"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:16:58"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:16:58"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:16:58"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:17:53"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:17:53"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:17:53"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:17:53"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:17:53"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:18:09"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:18:09"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:18:09"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:18:09"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:18:09"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:18:18"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:18:18"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:18:18"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:18:18"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:18:18"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:19:50"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:19:50"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:19:50"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:19:50"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:19:50"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:20:25"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:20:25"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:20:25"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:20:25"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:20:25"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:20:44"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:20:44"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:20:44"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:20:44"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:20:44"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:20:59"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:20:59"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:20:59"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:20:59"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:20:59"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:21:46"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:21:46"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:21:46"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:21:46"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:21:46"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:23:02"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:23:02"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:23:02"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:23:02"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:23:02"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:23:43"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:23:44"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:23:44"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:23:44"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:23:44"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:24:04"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:24:04"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:24:04"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:24:04"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:24:04"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:24:30"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:24:30"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:24:30"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:24:30"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:24:30"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:24:35"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:24:35"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:24:35"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:24:35"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:24:35"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:25:36"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:25:36"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:25:36"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:25:36"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:25:36"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:25:47"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:25:47"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:25:47"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:25:47"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:25:47"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:37:09"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:37:09"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:37:09"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:37:09"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:37:09"}
+{"task_id": 1, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:38:26"}
+{"task_id": 1, "action": "Edited", "details": {"status": "In Progress"}, "timestamp": "2024-12-08T23:38:26"}
+{"task_id": 1, "action": "Deleted", "details": {}, "timestamp": "2024-12-08T23:38:26"}
+{"task_id": 1, "action": "Edited", "details": {"title": "Updated Title", "status": "Completed"}, "timestamp": "2024-12-08T23:38:26"}
+{"task_id": 2, "action": "Edited", "details": {"status": "Completed"}, "timestamp": "2024-12-08T23:38:26"}

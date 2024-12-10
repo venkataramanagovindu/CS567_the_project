@@ -1,4 +1,12 @@
- python -m unittest discover
+python3 -m venv venv
+source venv/bin/activate
+
+
+
+
+
+ pip install hypothesis
+ python3 -m unittest discover
  coverage run -m unittest discover  
  coverage html            
  mutmut run
