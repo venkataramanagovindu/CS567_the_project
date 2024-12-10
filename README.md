@@ -16,6 +16,15 @@ This project demonstrates the use of Python testing tools such as `unittest`, `h
 ## Setup
 
 ### Create a Virtual Environment
+
+clone the repo 
+
+```
+git clone https://github.com/venkataramanagovindu/CS567_the_project.git
+```
+
+and move the cloned directory
+
 A virtual environment helps isolate dependencies.
 
 ```
