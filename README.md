@@ -39,47 +39,49 @@ A virtual environment helps isolate dependencies.
 
 ```
 python3 -m venv venv
-
 ```
 Activate the Virtual Environment
 Activate the environment to start working.
 
-```
 On Linux/Mac:
 
 ```
 source venv/bin/activate
-
 ```
 
 On Windows:
-cmd
 
+```
 venv\Scripts\activate
-Installation
+```
+
 Install required dependencies:
 
 
-
+```
 pip install hypothesis
+```
 Running Tests
 Running Unit Tests
 Discover and run all tests in the project using unittest.
 
 
-
+```
 python3 -m unittest discover
+```
 Measuring Test Coverage
 Run tests with coverage to measure code coverage.
 
 
-
+```
 coverage run -m unittest discover
+```
 Generate an HTML report:
 
 
-
+```
 coverage html
+```
 Open htmlcov/index.html in a browser to view the coverage report.
 
 Mutation Testing with MutMut
@@ -89,27 +91,31 @@ Running MutMut
 Start the mutation testing process:
 
 
-
+```
 mutmut run
+```
 Viewing Results
 View a summary of the results:
 
 
-
+```
 mutmut results
+```
 Check detailed results for a specific file:
 
 
-
+```
 mutmut show <result_file_name>
+```
 View all mutation results:
 
 
-
+```
 mutmut results --all true
+```
 Project Structure
 
-
+```
 project/
 ├── venv/               # Virtual environment
 ├── src/                # Source code
@@ -117,3 +123,4 @@ project/
 ├── htmlcov/            # Coverage report
 ├── README.md           # Documentation
 └── requirements.txt    # Dependencies
+```
